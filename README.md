@@ -28,29 +28,23 @@
 
 ## 🧠 Decisões do Projeto
 
-### 1. 📦 Estratégia de Alocação: *"Menos Entregas"*  
-- **Decisão:** Alocar pedidos no drone com menos entregas atuais  
+### 1. 📦 Estratégia de Alocação: *"Menos Entregas"*  - Alocar pedidos no drone com menos entregas atuais  
 - **Por que:** Distribui a carga uniformemente entre os drones  
 - **Benefício:** Evita sobrecarregar um único drone e otimiza o tempo total
 
-### 2. 🧾 Persistência de Dados  
-- **Decisão:** Armazenamento em memória com reset manual  
+### 2. 🧾 Persistência de Dados - Armazenamento em memória com reset manual  
 - **Por que:** Simplicidade para demonstração e testes  
 - **Benefício:** Permite reiniciar facilmente e testar diferentes cenários
 
 ### 3. ⏱️ Cálculo de Tempo Realista  
-- **Decisão:** Velocidade de 20 km/h (0,333 km/min)  
 - **Por que:** Velocidade típica de drones de entrega urbanos  
-- **Cálculo:** Considera rota completa (origem → destinos → origem)  
 - **Benefício:** Oferece uma estimativa mais próxima da realidade para simulações e análises de desempenho
 
-### 4. ✅ Validação dos Dados  
-- **Decisão:** Validação com feedback visual  
+### 4. ✅ Validação dos Dados - Validação com feedback visual  
 - **Por que:** Melhora a experiência do usuário  
 - **Benefício:** Reduz erros no preenchimento dos formulários e agiliza o uso do sistema
 
-### 5. 📊 Relatório de Performance  
-- **Decisão:** Métricas de eficiência baseadas em entregas/peso  
+### 5. 📊 Relatório de Performance - Métricas de eficiência baseadas em entregas/peso  
 - **Por que:** Permite avaliar qual drone é mais produtivo  
 - **Benefício:** Auxilia na tomada de decisões para ajustes na estratégia de alocação e uso dos drones
 
@@ -67,10 +61,10 @@
 - **Gemini:** Comparação de abordagens algorítmicas e revisão de estruturação de código
 - **Cursor:** Ambiente de desenvolvimento com integração direta a IA para geração de código, sugestões de melhoria e automação de testes
 
-## 💡 Exemplos de Prompts Utilizados
+## 💡 Alguns Prompts Utilizados
  **ChatGPT**
 - Como distribuir pedidos entre 3 drones respeitando peso máximo e prioridade?
-- Me ajude a calcular o tempo de entrega de um drone com velocidade constante
+- Como calcular o tempo de entrega de um drone com velocidade constante
 - Como organizar um projeto ASP.NET com MVC simples e singleton para armazenamento em memória?
 
  **Gemini**
