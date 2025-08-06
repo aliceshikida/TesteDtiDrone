@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/DroneDeliverySimulator.props" />
-</Project>
