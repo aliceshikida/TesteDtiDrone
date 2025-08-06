@@ -1,15 +1,15 @@
 {
   "Files": [
     {
-      "Id": "/Users/user/DroneDeliverySolution/DroneDeliverySimulator/wwwroot/index.html",
+      "Id": "/Users/user/TesteDtiDrone-2/DroneDeliverySimulator/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
     },
     {
-      "Id": "/Users/user/DroneDeliverySolution/DroneDeliverySimulator/wwwroot/script.js",
+      "Id": "/Users/user/TesteDtiDrone-2/DroneDeliverySimulator/wwwroot/script.js",
       "PackagePath": "staticwebassets/script.js"
     },
     {
-      "Id": "/Users/user/DroneDeliverySolution/DroneDeliverySimulator/wwwroot/style.css",
+      "Id": "/Users/user/TesteDtiDrone-2/DroneDeliverySimulator/wwwroot/style.css",
       "PackagePath": "staticwebassets/style.css"
     },
     {
