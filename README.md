@@ -6,7 +6,7 @@
 ## 📌 Restrições Assumidas
 
 ### 🚫 Limite de Peso por Drone  
-- **Capacidade máxima:** 10 kg por drone
+- **Capacidade máxima:** 10 kg por drone - Caso ultrapasse, uma notificação aparece.
 
 ### 🎯 Sistema de Prioridade  
 - **Escala:** Numérica (quanto maior o número, maior a prioridade)  
@@ -15,13 +15,14 @@
 
 ### 📍 Limite de Distância  
 - **Coordenadas válidas:**  
-  - X: -100 a +100  
-  - Y: -100 a +100  
+  - X: -100 a +100  - Caso ultrapasse, uma notificação aparece.
+  - Y: -100 a +100  - Caso ultrapasse, uma notificação aparece.
 - **Cálculo da distância:** Euclidiana a partir da origem (0, 0)
 
 ### 🚁 Limite de Drones  
 - **Máximo de drones simultâneos:** 3  
 - **Motivo:** Simular uma frota pequena e gerenciável
+- *Caso nao haja mais drones disponiveis, uma mensagem de ATENÇÃO aparece na caixa de pedidos realizados, mostrando quais os pedidos foram barrados, excluindo-os da listagem de entregas*
 
 ---
 
