@@ -95,7 +95,7 @@
 <img src="https://github.com/user-attachments/assets/58128f99-8d73-485f-89f8-b61ebb071bc8" width="400"/>
 
 
-## ❗​ Como Usar a Aplicação
+##​ Como Usar a Aplicação
 
 ### 1. Cadastrar Pedido
 
