@@ -98,7 +98,7 @@
 ### 📋 Passos para Execução
 
 
-![A704125A-277A-44BA-8F3A-4357E034A03B_1_201_a](https://github.com/user-attachments/assets/58128f99-8d73-485f-89f8-b61ebb071bc8)
+<img src="https://github.com/user-attachments/assets/58128f99-8d73-485f-89f8-b61ebb071bc8" width="400"/>
 
 
 ## 🧪 Como Usar a Aplicação
@@ -112,7 +112,7 @@
   - **Prioridade:** Número (maior = mais prioritário)  
 - Clique em **"Cadastrar Pedido"**
 
-![058DEA35-B176-4867-8B46-534F22FA0FAF_1_201_a](https://github.com/user-attachments/assets/a74084c1-3f4a-47d7-b03a-4a1262636de3)
+<img src="https://github.com/user-attachments/assets/a74084c1-3f4a-47d7-b03a-4a1262636de3" width="400"/>
   
 ### 2️⃣ Simular Entregas
 
