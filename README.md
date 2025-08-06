@@ -96,7 +96,29 @@
 
 ### 📋 Passos para Execução
 
-![A704125A-277A-44BA-8F3A-4357E034A03B_1_201_a](https://github.com/user-attachments/assets/638492b4-3cd0-415c-b095-61c3bd366050)
+1. **Clone o repositório**
+
+   ```bash
+   git clone [URL_DO_REPOSITORIO]
+   cd DroneDeliverySolution
+Navegue para o projeto
+
+bash
+Copiar
+Editar
+cd DroneDeliverySimulator
+Execute a aplicação
+
+bash
+Copiar
+Editar
+dotnet run
+Acesse no navegador
+
+text
+Copiar
+Editar
+http://localhost:5290
 
 ---
 
