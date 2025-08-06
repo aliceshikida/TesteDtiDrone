@@ -137,7 +137,7 @@
 ### 4️⃣ Resetar Dados
 
 - Clique em **"Resetar Dados"** para limpar tudo.
-- Os dados do são resetados usando esse botão, caso o usuário apenas reinicie a pagina, os dados continuarão la.
+- Os dados só conseguem ser resetados usando esse botão.
 - Útil para testar novos cenários
 <img src="https://github.com/user-attachments/assets/91bffef1-dbfb-4f92-b39f-f1dbeb9953f2" width="400"/>
 
