@@ -91,9 +91,25 @@
 
 ### 👇​ Passos para Execução
 
+**1. Clone o repositório**
+  ```
+   git clone https://github.com/aliceshikida/TesteDtiDrone.git
+   cd TesteDtiDrone
+   ```
+**2. Navegue para o projeto**
+  ```
+   cd DroneDeliverySimulator
+   ```
+**3. Execute a aplicação**
+ ```
+  dotnet run
 
-<img src="https://github.com/user-attachments/assets/58128f99-8d73-485f-89f8-b61ebb071bc8" width="400"/>
+   ```
+**4. Acesse o navegador**
+```
+  http://localhost:5290
 
+   ```
 
 ##​ Como Usar a Aplicação
 
