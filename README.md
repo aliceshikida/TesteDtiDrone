@@ -3,7 +3,7 @@
 
 
 
-## 📌 Restrições Assumidas
+## Restrições Assumidas
 
 ### Limite de Peso por Drone  
 - **Capacidade máxima:** 10 kg por drone - Caso ultrapasse, uma notificação aparece.
@@ -26,7 +26,7 @@
 
 ---
 
-## ✅ Decisões do Projeto
+## Decisões do Projeto
 
 ### 1. Estratégia de Alocação: *"Menos Entregas"*  - Alocar pedidos no drone com menos entregas atuais  
 - **Por que:** Distribui a carga uniformemente entre os drones  
@@ -50,7 +50,7 @@
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Backend:** ASP.NET Core 6.0 (C#)  
 - **Frontend:** HTML5, CSS3, JavaScript (Vanilla)  
@@ -61,7 +61,7 @@
 - **Gemini:** Comparação de abordagens algorítmicas e revisão de estruturação de código
 - **Cursor:** Ambiente de desenvolvimento com integração direta a IA para geração de código, sugestões de melhoria e automação de testes
 
-## 💡 Alguns Prompts Utilizados
+## Alguns Prompts Utilizados
  **ChatGPT**
 - Como distribuir pedidos entre 3 drones respeitando peso máximo e prioridade?
 - Como calcular o tempo de entrega de um drone com velocidade constante
@@ -80,7 +80,7 @@
 
 ---
 
-## 🚀 Instruções para Executar
+## Instruções para Executar
 
 ### Pré-requisitos
 
@@ -97,7 +97,7 @@
 
 ## ❗​ Como Usar a Aplicação
 
-### 1️⃣ Cadastrar Pedido
+### 1. Cadastrar Pedido
 
 - Preencha o formulário com:  
   - **Peso:** 0–10 kg  
@@ -108,7 +108,7 @@
 
 <img src="https://github.com/user-attachments/assets/a74084c1-3f4a-47d7-b03a-4a1262636de3" width="400"/>
   
-### 2️⃣ Simular Entregas
+### 2. Simular Entregas
 
 - Clique em **"Simular Entrega"**  
 - O sistema alocará automaticamente os pedidos entre os drones  
@@ -116,7 +116,7 @@
  <img src="https://github.com/user-attachments/assets/9555fd6a-4d6f-4c22-b8f8-b1a1abbfe68a" width="400"/>
   <img src="https://github.com/user-attachments/assets/a7cde1cf-78cd-45bb-a098-0619d216e10b" width="400"/>
   
-### 3️⃣ Gerar Relatório
+### 3. Gerar Relatório
 
 - Clique em **"Gerar Relatório"**  
 - Veja estatísticas de performance:  
@@ -128,7 +128,7 @@
 <img src="https://github.com/user-attachments/assets/a32f86c4-a950-4ccf-9155-dd5cf93d35e6" width="400"/>
 
 
-### 4️⃣ Resetar Dados
+### 4. Resetar Dados
 
 - Clique em **"Resetar Dados"** para limpar tudo.
 - Os dados só conseguem ser resetados usando esse botão.
@@ -139,7 +139,7 @@
 
 ---
 
-## 🎮 Funcionalidades Principais
+## Funcionalidades Principais
 
 ### Validação Inteligente  
 - Limites de peso e coordenadas em tempo real  
