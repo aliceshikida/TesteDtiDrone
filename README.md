@@ -76,8 +76,7 @@
 
 ### 📋 Passos para Execução
 
-1. Clone o repositório e execute o projeto com `dotnet run`  
-2. Acesse a interface via navegador
+![A704125A-277A-44BA-8F3A-4357E034A03B_1_201_a](https://github.com/user-attachments/assets/638492b4-3cd0-415c-b095-61c3bd366050)
 
 ---
 
@@ -138,4 +137,4 @@
 
 ---
 
-![Simulação de Tela](https://github.com/user-attachments/assets/638492b4-3cd0-415c-b095-61c3bd366050)
+
