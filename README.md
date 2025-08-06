@@ -5,46 +5,46 @@
 
 ## 📌 Restrições Assumidas
 
-### 🚫 Limite de Peso por Drone  
+### Limite de Peso por Drone  
 - **Capacidade máxima:** 10 kg por drone - Caso ultrapasse, uma notificação aparece.
 
-### 🎯 Sistema de Prioridade  
+### Sistema de Prioridade  
 - **Escala:** Numérica (quanto maior o número, maior a prioridade)  
 - **Aplicação:** Pedidos com prioridade mais alta são atendidos primeiro  
 - **Critério secundário:** Distância (pedidos mais próximos têm preferência)
 
-### 📍 Limite de Distância  
+### Limite de Distância  
 - **Coordenadas válidas:**  
   - X: -100 a +100  - Caso ultrapasse, uma notificação aparece.
   - Y: -100 a +100  - Caso ultrapasse, uma notificação aparece.
 - **Cálculo da distância:** Euclidiana a partir da origem (0, 0)
 
-### 🚁 Limite de Drones  
+### Limite de Drones  
 - **Máximo de drones simultâneos:** 3  
 - **Motivo:** Simular uma frota pequena e gerenciável
 - *Caso não haja mais drones disponiveis, uma mensagem de ATENÇÃO aparecerá na caixa de Pedidos Realizados, mostrando quais os pedidos foram barrados, excluindo-os da Simulação de Entregas*
 
 ---
 
-## 🧠 Decisões do Projeto
+## ✅ Decisões do Projeto
 
-### 1. 📦 Estratégia de Alocação: *"Menos Entregas"*  - Alocar pedidos no drone com menos entregas atuais  
+### 1. Estratégia de Alocação: *"Menos Entregas"*  - Alocar pedidos no drone com menos entregas atuais  
 - **Por que:** Distribui a carga uniformemente entre os drones  
 - **Benefício:** Evita sobrecarregar um único drone e otimiza o tempo total
 
-### 2. 🧾 Persistência de Dados - Armazenamento em memória com reset manual  
+### 2. Persistência de Dados - Armazenamento em memória com reset manual  
 - **Por que:** Simplicidade para demonstração e testes  
 - **Benefício:** Permite reiniciar facilmente e testar diferentes cenários
 
-### 3. ⏱️ Cálculo de Tempo Realista  
+### 3. Cálculo de Tempo Realista  
 - **Por que:** Velocidade típica de drones de entrega urbanos  
 - **Benefício:** Oferece uma estimativa mais próxima da realidade para simulações e análises de desempenho
 
-### 4. ✅ Validação dos Dados - Validação com feedback visual  
+### 4. Validação dos Dados - Validação com feedback visual  
 - **Por que:** Melhora a experiência do usuário  
 - **Benefício:** Reduz erros no preenchimento dos formulários e agiliza o uso do sistema
 
-### 5. 📊 Relatório de Performance - Métricas de eficiência baseadas em entregas/peso  
+### 5. Relatório de Performance - Métricas de eficiência baseadas em entregas/peso  
 - **Por que:** Permite avaliar qual drone é mais produtivo  
 - **Benefício:** Auxilia na tomada de decisões para ajustes na estratégia de alocação e uso dos drones
 
@@ -82,20 +82,20 @@
 
 ## 🚀 Instruções para Executar
 
-### ✅ Pré-requisitos
+### Pré-requisitos
 
 - [.NET 6.0 SDK ou superior](https://dotnet.microsoft.com/en-us/download)
 - Navegador web moderno
 
 ---
 
-### 📋 Passos para Execução
+### 👇​ Passos para Execução
 
 
 <img src="https://github.com/user-attachments/assets/58128f99-8d73-485f-89f8-b61ebb071bc8" width="400"/>
 
 
-## 🧪 Como Usar a Aplicação
+## ❗​ Como Usar a Aplicação
 
 ### 1️⃣ Cadastrar Pedido
 
