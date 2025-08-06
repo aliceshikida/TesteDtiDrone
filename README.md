@@ -103,12 +103,10 @@
 **3. Execute a aplicação**
  ```
   dotnet run
-
    ```
 **4. Acesse o navegador**
 ```
   http://localhost:5290
-
    ```
 
 ##​ Como Usar a Aplicação
