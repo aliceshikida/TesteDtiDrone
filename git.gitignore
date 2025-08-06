@@ -1,0 +1,60 @@
+## Ignore arquivos de build
+bin/
+obj/
+out/
+
+## Ignore arquivos de publicação
+publish/
+*.publishsettings
+
+## Ignore arquivos temporários do Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Logs e arquivos de depuração
+*.log
+*.tlog
+*.pdb
+
+## Cache do Rider/JetBrains
+.idea/
+*.sln.iml
+
+## Pacotes NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Arquivos de backup do Windows
+*~
+*.bak
+
+## Arquivos do sistema operacional
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+## Outros desnecessários
+*.tmp
+*.dbmdl
+*.cache
+*.DS_Store
+
+## Arquivos do Test Explorer
+TestResult*/
+TestResults/
+
+## Arquivos de build do ASP.NET
+wwwroot/
+
+## Configurações de ambiente local
+.env
+appsettings.Development.json

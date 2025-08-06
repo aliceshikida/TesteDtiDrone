@@ -1,0 +1,237 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f0f2f5;
+  color: #222;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+  padding: 40px 20px;
+}
+
+.container {
+  background: #fff;
+  padding: 30px 40px;
+  border-radius: 12px;
+  box-shadow: 0 12px 25px rgba(0,0,0,0.1);
+  width: 100%;
+  max-width: 600px;
+  text-align: center;
+}
+
+h1, h2 {
+  margin-bottom: 25px;
+  font-weight: 700;
+  color: #0a0a23;
+}
+
+.form label {
+    display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px; /* Espaço entre o texto e o campo */
+  margin-bottom: 18px;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #444;
+}
+
+.form input,
+.form select {
+  width: 150px;
+  padding: 8px 12px;
+  border: 1.8px solid #ddd;
+  border-radius: 6px;
+  font-size: 1rem;
+  transition: border-color 0.25s ease;
+}
+
+.form input:focus,
+.form select:focus {
+  border-color: #0066cc;
+  outline: none;
+}
+
+.form input:invalid {
+  border-color: #ff6b6b;
+}
+
+.error-message {
+  color: #ff6b6b;
+  font-size: 0.85rem;
+  font-weight: 500;
+  margin-top: 4px;
+  display: block;
+  text-align: right;
+  min-height: 16px;
+}
+
+.btn-primary {
+  background-color: #0066cc;
+  color: #fff;
+  font-weight: 700;
+  padding: 12px 0;
+  width: 100%;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  margin-top: 15px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: #004c99;
+}
+
+.btn-secondary {
+  background: linear-gradient(135deg, #ff6b6b, #ee5a52);
+  color: #fff;
+  font-weight: 700;
+  padding: 12px 0;
+  width: 100%;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  margin-top: 15px;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(255, 107, 107, 0.3);
+}
+
+.btn-secondary:hover {
+  background: linear-gradient(135deg, #ff5252, #d32f2f);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(255, 107, 107, 0.4);
+}
+
+.btn-info {
+  background: linear-gradient(135deg, #17a2b8, #138496);
+  color: #fff;
+  font-weight: 700;
+  padding: 12px 0;
+  width: 100%;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  margin-top: 15px;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(23, 162, 184, 0.3);
+}
+
+.btn-info:hover {
+  background: linear-gradient(135deg, #138496, #117a8b);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(23, 162, 184, 0.4);
+}
+
+.btn-simular {
+  margin: 30px 0 20px 0;
+}
+
+.pedidos-section, .resultado-section, .relatorio-section {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.pedido-list, .resultado-list {
+  list-style: none;
+  max-height: 240px;
+  overflow-y: auto;
+  padding: 15px;
+  border: 1.5px solid #ddd;
+  border-radius: 8px;
+  background-color: #fafafa;
+  font-size: 0.95rem;
+  color: #333;
+}
+
+.pedido-list li, .resultado-list li {
+  padding: 8px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.pedido-list li:last-child,
+.resultado-list li:last-child {
+  border-bottom: none;
+}
+
+.pedido-list::-webkit-scrollbar,
+.resultado-list::-webkit-scrollbar {
+  width: 6px;
+}
+
+.pedido-list::-webkit-scrollbar-thumb,
+.resultado-list::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 3px;
+}
+
+.relatorio-content {
+  padding: 15px;
+  border: 1.5px solid #17a2b8;
+  border-radius: 8px;
+  background-color: #f0f8ff;
+  font-size: 0.95rem;
+  color: #333;
+  line-height: 1.6;
+}
+
+.relatorio-content h3 {
+  color: #17a2b8;
+  margin-bottom: 10px;
+  font-size: 1.1rem;
+}
+
+.relatorio-content p {
+  margin-bottom: 8px;
+  padding: 5px 0;
+}
+
+.relatorio-content .metric {
+  font-weight: 600;
+  color: #138496;
+}
+
+@media (max-width: 520px) {
+  .container {
+    padding: 20px 20px;
+    max-width: 100%;
+  }
+
+  .form label {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .form input,
+  .form select {
+    width: 100%;
+    margin-top: 6px;
+  }
+}
+
+.drone-info {
+  background-color: #e3f2fd;
+  border-left: 4px solid #2196f3;
+  padding: 8px 12px;
+  margin: 8px 0;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.tempo-destaque {
+  color: #1976d2;
+  font-weight: bold;
+  background-color: #fff3e0;
+  padding: 2px 6px;
+  border-radius: 3px;
+}
