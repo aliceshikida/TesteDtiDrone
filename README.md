@@ -1,7 +1,7 @@
 # Teste Prático – DTI Digital  
 ## **Simulador de Encomendas com Drones**
-
-
+  Este projeto é um simulador de entregas por drones que busca otimizar entregas em áreas urbanas. O sistema gerencia pedidos, drones e rotas de forma automática, garantindo que cada entrega respeite os limites de peso, distância e prioridade definidos.
+Cada pedido inclui a localização do cliente em uma grade de coordenadas, o peso do pacote e o nível de prioridade. O principal objetivo da aplicação é organizar os envios de forma eficiente, alocando os pacotes nos drones com o menor número de viagens possível, sem ultrapassar a capacidade máxima de carga e alcance de cada drone.
 
 ## Restrições Assumidas
 
