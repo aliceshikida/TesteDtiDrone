@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DroneDeliverySimulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dd8267687258bbbb6a6ec07298351f71d81b2a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("DroneDeliverySimulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DroneDeliverySimulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

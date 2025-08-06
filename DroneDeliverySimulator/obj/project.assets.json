@@ -80,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/DroneDeliverySolution/DroneDeliverySimulator/DroneDeliverySimulator.csproj",
+      "projectUniqueName": "/Users/user/TesteDtiDrone-2/DroneDeliverySimulator/DroneDeliverySimulator.csproj",
       "projectName": "DroneDeliverySimulator",
-      "projectPath": "/Users/user/DroneDeliverySolution/DroneDeliverySimulator/DroneDeliverySimulator.csproj",
+      "projectPath": "/Users/user/TesteDtiDrone-2/DroneDeliverySimulator/DroneDeliverySimulator.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/DroneDeliverySolution/DroneDeliverySimulator/obj/",
+      "outputPath": "/Users/user/TesteDtiDrone-2/DroneDeliverySimulator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.nuget/NuGet/NuGet.Config"
