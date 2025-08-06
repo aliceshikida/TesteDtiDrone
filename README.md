@@ -109,7 +109,7 @@
   http://localhost:5290
    ```
 
-##​ Como Usar a Aplicação
+## Como usar a Aplicação
 
 ### 1. Cadastrar Pedido
 
