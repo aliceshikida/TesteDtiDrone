@@ -1,7 +1,7 @@
-# 🛰️ Teste Prático – DTI Digital  
+# Teste Prático – DTI Digital  
 ## **Simulador de Encomendas com Drones**
 
----
+
 
 ## 📌 Restrições Assumidas
 
@@ -119,9 +119,9 @@
 - Clique em **"Simular Entrega"**  
 - O sistema alocará automaticamente os pedidos entre os drones  
 - Visualize a distribuição e pedidos não alocados, arrastando um pouco pra baixo. (se houver)
-![E8FF3B2B-B8D8-4AB6-8621-D3CAFE325EE4_1_201_a](https://github.com/user-attachments/assets/9555fd6a-4d6f-4c22-b8f8-b1a1abbfe68a)
-![697D4A9F-641F-450D-9F09-CABAC7CCD4A7_1_201_a](https://github.com/user-attachments/assets/a7cde1cf-78cd-45bb-a098-0619d216e10b)
-
+ <img src="https://github.com/user-attachments/assets/9555fd6a-4d6f-4c22-b8f8-b1a1abbfe68a" width="400"/>
+  <img src="https://github.com/user-attachments/assets/a7cde1cf-78cd-45bb-a098-0619d216e10b" width="400"/>
+  
 ### 3️⃣ Gerar Relatório
 
 - Clique em **"Gerar Relatório"**  
@@ -131,36 +131,38 @@
   - Drone mais eficiente  
   - Tempo detalhado por drone
 
-![759AFC03-6445-435F-B668-C9C8A7B918C0_1_201_a](https://github.com/user-attachments/assets/a32f86c4-a950-4ccf-9155-dd5cf93d35e6)
+<img src="https://github.com/user-attachments/assets/a32f86c4-a950-4ccf-9155-dd5cf93d35e6" width="400"/>
+
 
 ### 4️⃣ Resetar Dados
 
 - Clique em **"Resetar Dados"** para limpar tudo.
 - Os dados do são resetados usando esse botão, caso o usuário apenas reinicie a pagina, os dados continuarão la.
 - Útil para testar novos cenários
-![4A2FDB61-3E93-47E8-B639-24DD4364D821_4_5005_c](https://github.com/user-attachments/assets/91bffef1-dbfb-4f92-b39f-f1dbeb9953f2)
+<img src="https://github.com/user-attachments/assets/91bffef1-dbfb-4f92-b39f-f1dbeb9953f2" width="400"/>
+
 
 
 ---
 
 ## 🎮 Funcionalidades Principais
 
-### 🧠 Validação Inteligente  
+### Validação Inteligente  
 - Limites de peso e coordenadas em tempo real  
 - Mensagens de erro claras  
 - Prevenção de dados inválidos
 
-### ⚙️ Alocação Otimizada  
+### Alocação Otimizada  
 - Distribuição automática entre drones  
 - Respeito aos limites de peso  
 - Priorização por prioridade e distância
 
-### 📈 Relatórios Detalhados  
+### Relatórios Detalhados  
 - Métricas de eficiência  
 - Tempo de entrega por drone  
 - Análise de performance
 
-### 💻 Interface Responsiva  
+### Interface Responsiva  
 - Design moderno e intuitivo  
 - Feedback visual imediato  
 - Compatível com diferentes dispositivos
