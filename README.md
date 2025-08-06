@@ -62,6 +62,26 @@
 - **Arquitetura:** RESTful API  
 - **Padrão:** MVC (Model-View-Controller)  
 - **Serviços:** Singleton para gerenciamento de estado
+- **ChatGPT:** Auxílio na criação da lógica de alocação de drones, validação de dados, organização do projeto e documentação técnica
+- **Gemini:** Comparação de abordagens algorítmicas e revisão de estruturação de código
+- **Cursor:** Ambiente de desenvolvimento com integração direta a IA para geração de código, sugestões de melhoria e automação de testes
+
+## 💡 Exemplos de Prompts Utilizados
+ **ChatGPT**
+- Como distribuir pedidos entre 3 drones respeitando peso máximo e prioridade?
+- Me ajude a calcular o tempo de entrega de um drone com velocidade constante
+- Como organizar um projeto ASP.NET com MVC simples e singleton para armazenamento em memória?
+
+ **Gemini**
+- Como calcular rota de ida e volta do drone da forma mais eficiente?
+- Melhores práticas para organizar regras de negócio em projetos com ASP.NET MVC
+
+
+ **Cursor**
+- Gere um método em C# para calcular distância euclidiana entre dois pontos
+- Refatore esta classe DeliveryService para melhor legibilidade
+- Crie um endpoint POST para receber pedidos com validação
+
 
 ---
 
