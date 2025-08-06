@@ -103,21 +103,15 @@
    cd DroneDeliverySolution
 Navegue para o projeto
 
-bash
-Copiar
-Editar
-cd DroneDeliverySimulator
-Execute a aplicação
+  ```bash
+  cd DroneDeliverySimulator
+  Execute a aplicação
 
-bash
-Copiar
-Editar
-dotnet run
-Acesse no navegador
+  ```bash
+  dotnet run
 
-text
-Copiar
-Editar
+ Acesse no navegador
+
 http://localhost:5290
 
 ---
