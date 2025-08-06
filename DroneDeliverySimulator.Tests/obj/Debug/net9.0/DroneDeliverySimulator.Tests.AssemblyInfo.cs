@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DroneDeliverySimulator")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DroneDeliverySimulator.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7eff169ed4e999e3b07071d29dcf5d4fb440e723")]
-[assembly: System.Reflection.AssemblyProductAttribute("DroneDeliverySimulator")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DroneDeliverySimulator")]
+[assembly: System.Reflection.AssemblyProductAttribute("DroneDeliverySimulator.Tests")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DroneDeliverySimulator.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
