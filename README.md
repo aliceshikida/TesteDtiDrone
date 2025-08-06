@@ -96,25 +96,9 @@
 
 ### 📋 Passos para Execução
 
-1. **Clone o repositório**
 
-   ```bash
-   git clone [URL_DO_REPOSITORIO]
-   cd DroneDeliverySolution
-Navegue para o projeto
+![A704125A-277A-44BA-8F3A-4357E034A03B_1_201_a](https://github.com/user-attachments/assets/58128f99-8d73-485f-89f8-b61ebb071bc8)
 
-  ```bash
-  cd DroneDeliverySimulator
-  Execute a aplicação
-
-  ```bash
-  dotnet run
-
- Acesse no navegador
-
-http://localhost:5290
-
----
 
 ## 🧪 Como Usar a Aplicação
 
