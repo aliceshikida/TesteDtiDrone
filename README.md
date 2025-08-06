@@ -22,7 +22,7 @@
 ### 🚁 Limite de Drones  
 - **Máximo de drones simultâneos:** 3  
 - **Motivo:** Simular uma frota pequena e gerenciável
-- *Caso nao haja mais drones disponiveis, uma mensagem de ATENÇÃO aparece na caixa de pedidos realizados, mostrando quais os pedidos foram barrados, excluindo-os da listagem de entregas*
+- *Caso não haja mais drones disponiveis, uma mensagem de ATENÇÃO aparece na caixa de pedidos realizados, mostrando quais os pedidos foram barrados, excluindo-os da listagem de entregas*
 
 ---
 
