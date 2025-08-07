@@ -96,7 +96,7 @@ Cada pedido inclui a localização do cliente em uma grade de coordenadas, o pes
    git clone https://github.com/aliceshikida/TesteDtiDrone.git
    cd TesteDtiDrone
    ```
-**2. Navegue para o projeto**
+**2. Navegue para o projeto (dentro do arquivo Progam.cs)**
   ```
    cd DroneDeliverySimulator
    ```
